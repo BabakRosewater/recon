@@ -1,3 +1,4 @@
-﻿unit_id,ro,tag,vin_last6,year,make,model,miles,ro_type,xtime_stage,advisor_code,tech_code,parts_emp_code,promise_at,mt_raw,pt_raw,mt_min,pt_min,parts_status,recon_status,blocker,cost_hours,cost_labor,cost_parts,cost_total,tread_lf,tread_rf,tread_lr,tread_rr,brake_lf,brake_rf,brake_lr,brake_rr,last_seen
+﻿unit_id,ro,tag,vin_last6,year,make,model,miles,ro_type,xtime_stage,advisor_code,tech_code,parts_emp_code,promise_at,mt_raw,pt_raw,mt_min,pt_min,parts_status,recon_status,blocker,hours_labor,cost_labor,cost_parts,cost_total,tread_lf,tread_rf,tread_lr,tread_rr,brake_lf,brake_rf,brake_lr,brake_rr,last_seen
 H7261B,6049583,7261B,123958,2024,Chevrolet,Equinox,34765,Internal,Dispatch,LB,,,12/5/2025 17:00,1d,,1440,,,At Risk,Tech Unassigned,,0,,255,,,,,,,,12/6/2025,
 H7381A,6049567,7381A,C86255,2018,Ford,Explorer,62976,Internal,Repair,LB,CW,CS,12/4/2025 17:00,1d,,1440,,COMPLETE,Past Promise,QC / Finalize,3.47,711.74,548.76,1260.5,8,7,9,9,3,3,10,10,12/6/2025
+
