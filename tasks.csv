@@ -1,0 +1,15 @@
+unit_id,task,owner,status,due_at,completed_at,notes
+H7261B,Assign Tech,Shop Foreman,TODO,2025-12-06 10:00,,Tech currently unassigned in RO details
+H7261B,Complete Inspection,Advisor (LB),TODO,2025-12-06 12:00,,MPI checklist + required measurements
+H7261B,Parts Ordered,Parts,TODO,,,Order after inspection needs identified
+H7261B,Repair Complete,Technician,TODO,,,Move to QC when done
+H7261B,Detail Complete,Detail,TODO,,,Interior/exterior detail
+H7261B,QC / Test Drive,Recon Lead,TODO,,,Final check + no holds
+H7261B,Photos Taken,Marketing,TODO,,,Once QC complete
+H7261B,Listed Online,Inventory Manager,TODO,,,Ready to list
+H7381A,Parts Confirmed Here,Parts (CS),DONE,,2025-12-05 15:06,"CS chat: approved parts are here"
+H7381A,Repair Complete,Technician (CW),DOING,2025-12-06 11:00,,Finish remaining ops
+H7381A,Detail Complete,Detail,TODO,2025-12-06 14:00,,Detail line exists ($400) — confirm completion
+H7381A,QC / Test Drive,Recon Lead,TODO,2025-12-06 16:00,,Promise was 12/4 5pm — prioritize
+H7381A,Photos Taken,Marketing,TODO,,,After QC
+H7381A,Listed Online,Inventory Manager,TODO,,,After photos
